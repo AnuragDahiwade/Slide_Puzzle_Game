@@ -25,14 +25,14 @@ The Number Puzzle Game is a challenging and addictive puzzle game where you need
 ## Screenshots
 -------------
 
-### Game Board
-![Game Board](images/game-board.png)
-
+### Game Images
+![Game Image](imgs/slidePuzzle1.png)
+![Game Image](imgs/slidePuzzle2.png)
+![Game Image](imgs/slidePuzzle3.png)
+![Game Image](imgs/slidePuzzle4.png)
 ### Winning Screen
 ![Winning Screen](images/winning-screen.png)
 
-### High Score Screen
-![High Score Screen](images/high-score-screen.png)
 
 ## Technical Details
 -------------------
