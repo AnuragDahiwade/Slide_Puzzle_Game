@@ -31,7 +31,7 @@ The Number Puzzle Game is a challenging and addictive puzzle game where you need
 ![Game Image](imgs/slidePuzzle3.png)
 ![Game Image](imgs/slidePuzzle4.png)
 ### Winning Screen
-![Winning Screen](images/winning-screen.png)
+![Winning Screen](imgs/slidePuzzle5.png)
 
 
 ## Technical Details
